@@ -86,7 +86,8 @@ python qr_verification.py
 ---
 ##Demo
 
-![Uploading Screenshot 2025-02-08 182738.png…]()
+![Screenshot 2025-02-08 182738](https://github.com/user-attachments/assets/d821bd8f-f5d4-44c1-801b-fe7a4b285366)
+
 ![Screenshot 2024-11-29 211715](https://github.com/user-attachments/assets/714debf6-3ead-4fc6-8502-b3b892f865f3)
 
 
